@@ -1,59 +1,93 @@
-<h1 align="center">Hi there 👋, I'm Ayush Yadav</h1>
-<h3 align="center">Full Stack Developer | Building data-driven web applications</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-yadav7890&label=Profile%20views&color=6d28d9&style=flat" alt="profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Ayush%20Yadav%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Smartfinance+%F0%9F%92%B0;React+%7C+Node.js+%7C+PostgreSQL;Always+Learning+%E2%9C%A8" />
 
-### 🚀 About Me
-- 🔭 Currently building **Smartfinance** — a full-stack personal finance app with smart insights
-- 🌱 Learning data analysis and applied machine learning
-- 💬 Ask me about React, Node.js, PostgreSQL
-- 📫 Reach me at: ayushyadav3257@gmail.com
+<img src="https://komarev.com/ghpvc/?username=Ayush-yadav7890&label=Profile%20views&color=6d28d9&style=for-the-badge" alt="profile views" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 About Me
 
----
+```python
+class AyushYadav:
+    def __init__(self):
+        self.name = "Ayush Yadav"
+        self.role = "Full Stack Developer"
+        self.current_project = "Smartfinance 💰"
+        self.tech_stack = ["React", "Node.js", "Express", "PostgreSQL", "Python"]
+        self.currently_learning = "Data Analysis & Machine Learning"
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile! 🚀")
+```
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-yadav7890&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-yadav7890&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-yadav7890&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="50%" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js,python,git,github,vscode,html,css,figma&theme=light" />
 
-### 🌟 Featured Project
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush-yadav7890&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-yadav7890&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-yadav7890&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="50%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-yadav7890&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=6D28D9&point=ffffff" width="95%" />
+</div>
+
+<br/>
+
+## 🌟 Featured Project
+
+<div align="center">
 
 <a href="https://github.com/Ayush-yadav7890/smartfinance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-yadav7890&repo=smartfinance&theme=tokyonight&hide_border=true" alt="smartfinance repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-yadav7890&repo=smartfinance&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" />
 </a>
 
-**[💰 Smartfinance — Live Demo](https://smartfinance-n68m.vercel.app)** | Full-stack personal finance app with savings insights
+### 💰 [Smartfinance — Live Demo](https://smartfinance-n68m.vercel.app)
+A full-stack personal finance app with AI-driven savings insights, expense tracking, and financial planning tools.
 
----
+`React` `Node.js` `PostgreSQL` `Chart.js` `JWT Auth`
 
-### 🔗 Connect with Me
+</div>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushyadav3257@gmail.com)
+<br/>
 
----
+## 🤝 Connect with Me
 
-<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my repositories.</i></p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayush-yadav-a746422a0">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ayushyadav3257@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<div align="center">
+<i>⭐ Thanks for visiting — feel free to explore my repositories!</i>
+</div>
